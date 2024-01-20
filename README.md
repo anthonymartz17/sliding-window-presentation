@@ -25,7 +25,7 @@ The Sliding Window algorithm is a technique for finding a subset of elements tha
 
 			currSum -= nums[i - (k - 1)];
 		}
-	}
+	}`
 ```
 
 3. Adding  to the running sum and to the subarray: adding to the running sum also acts as adding a new element to the subarray. The current number added also represents a new element added in the subarray  * key concept of the technique *.
