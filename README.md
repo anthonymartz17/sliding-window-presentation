@@ -41,6 +41,7 @@ currSum += nums[i];
 
 //nums = [4, 7, 3, 9, 1]
 // 4 + 7 + 3 represents subarray => [4,3,2] 
+
 ```
 
 
