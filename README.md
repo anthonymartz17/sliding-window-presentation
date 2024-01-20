@@ -112,7 +112,7 @@ This technique is useful for working with subsets of contiguous elements in a st
 
 
 ## Edge Cases and Concerns
-Considerations for edge cases involve scenarios where the array is empty or when the subarray size is bigger than the array size. Other than that, the algorithm is very efficient.
+Considerations for edge cases involve scenarios where the array is empty or when the subarray size is bigger than the array size. Also, if the size of the subarray is not fixed, meaning that it can dynamically change, then the approach needs to be around a the dynamically sized approach. Other than that, the algorithm is very efficient.
 
 
 
