@@ -121,3 +121,5 @@ Considerations for edge cases involve scenarios where the array is empty or when
 [Medium.com - Sliding Window](https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7)
 
 [Ryan Schachte YT Channel - Sliding Window](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
+
+[Google slide presentation - Sliding Window](https://docs.google.com/presentation/d/1_dcFClVFT9vI8gkEts9SXA_CQjUz_sCDYddMKLCIG-w/edit?usp=sharing)
